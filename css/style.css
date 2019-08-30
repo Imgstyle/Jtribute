@@ -1,7 +1,18 @@
 header{
 	text-align:center;
+	text-shadow:2px 3px 10px red;
 }
 
 main{
 	margin-left:350px;
+}
+
+article p{
+	border: solid grey;
+	margin-left: -150px;
+	
+}
+footer{
+	margin-left:150px;
+	font-size: 30px;
 }
